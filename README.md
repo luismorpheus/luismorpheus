@@ -3,7 +3,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on develop a model to calculate payment per km and time.
+- 🔭 I’m currently working on develop a model to calculate payment per km and time, in Urbvan, mobility company in vanpooling scheme
 - 🌱 I’m currently learning Python
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
